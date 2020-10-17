@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsForms_Basics.Properties
+namespace HW_WF_1_ValueCalculations.Properties
 {
 
 

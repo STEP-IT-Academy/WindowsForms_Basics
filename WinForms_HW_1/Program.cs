@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsForms_Basics
+namespace HW_WF_1_ValueCalculations
 {
     static class Program
     {

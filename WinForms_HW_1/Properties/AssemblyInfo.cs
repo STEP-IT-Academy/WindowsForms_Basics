@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("WindowsForms_Basics")]
+[assembly: AssemblyTitle("HW_WF_1_ValueCalculations")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WindowsForms_Basics")]
+[assembly: AssemblyProduct("HW_WF_1_ValueCalculations")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("26311abc-a421-4668-a332-2a7df20e3a1e")]
+[assembly: Guid("b1e25422-0fe4-45db-a095-a6c57b773b5d")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

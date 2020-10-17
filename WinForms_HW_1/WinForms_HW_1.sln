@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30406.217
+VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_HW_1", "WinForms_HW_1\WinForms_HW_1.csproj", "{B1E25422-0FE4-45DB-A095-A6C57B773B5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_WF_1_ValueCalculations", "HW_WF_1_ValueCalculations.csproj", "{B1E25422-0FE4-45DB-A095-A6C57B773B5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A7BDF8F0-3A1C-4A1B-B065-B9642EAFD08E}
+		SolutionGuid = {0F214090-32D6-4557-85D8-1A255F943496}
 	EndGlobalSection
 EndGlobal
