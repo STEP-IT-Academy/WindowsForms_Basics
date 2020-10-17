@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HW_WF_6.Properties
+namespace WindowsFormsApp_MultiplicationTable.Properties
 {
 
 

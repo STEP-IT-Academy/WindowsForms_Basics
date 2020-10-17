@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HW_WF_6
+namespace WindowsFormsApp_MultiplicationTable
 {
     static class Program
     {
