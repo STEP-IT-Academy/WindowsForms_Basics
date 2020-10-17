@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HW_WF_3_T2
+namespace HW_WF_4
 {
     static class Program
     {
