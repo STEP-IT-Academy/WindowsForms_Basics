@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HW_WF_2.Properties
+namespace HW_WF_3_T2.Properties
 {
 
 

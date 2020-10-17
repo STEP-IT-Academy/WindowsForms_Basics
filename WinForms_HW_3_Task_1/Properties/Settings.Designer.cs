@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HW_WF_Matrix.Properties
+namespace HW_WF_2_T1.Properties
 {
 
 
