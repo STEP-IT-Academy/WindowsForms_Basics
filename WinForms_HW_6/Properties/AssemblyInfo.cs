@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("HW_WF_5")]
+[assembly: AssemblyTitle("HW_WF_6")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HW_WF_5")]
+[assembly: AssemblyProduct("HW_WF_6")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("49aef678-0f06-4991-90be-60acfc335054")]
+[assembly: Guid("0a879145-533f-4dd3-8d20-824513d3d173")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
