@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30406.217
+VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_HW_2_Task_1", "WinForms_HW_2_Task_1\WinForms_HW_2_Task_1.csproj", "{C72DD669-46E4-4AC5-BA62-FFBCDF10FBB3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_HW_2_Task_2", "WinForms_HW_2_Task_2\WinForms_HW_2_Task_2.csproj", "{EA7C33E8-845F-45D4-985B-F37F098F09FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_WF_Matrix", "HW_WF_Matrix.csproj", "{EA7C33E8-845F-45D4-985B-F37F098F09FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C72DD669-46E4-4AC5-BA62-FFBCDF10FBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C72DD669-46E4-4AC5-BA62-FFBCDF10FBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C72DD669-46E4-4AC5-BA62-FFBCDF10FBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C72DD669-46E4-4AC5-BA62-FFBCDF10FBB3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EA7C33E8-845F-45D4-985B-F37F098F09FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EA7C33E8-845F-45D4-985B-F37F098F09FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA7C33E8-845F-45D4-985B-F37F098F09FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A7BDF8F0-3A1C-4A1B-B065-B9642EAFD08E}
+		SolutionGuid = {7FB3C9C4-C37C-4F73-BC87-9473F06950CA}
 	EndGlobalSection
 EndGlobal

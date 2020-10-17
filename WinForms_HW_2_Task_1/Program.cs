@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HW_WF_1_ValueCalculations
+namespace HW_WF_2
 {
     static class Program
     {

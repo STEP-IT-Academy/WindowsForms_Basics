@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HW_WF_1_ValueCalculations
+namespace HW_WF_2
 {
-    public partial class Author : Form
+    public partial class AboutAuthor : Form
     {
-        public Author()
+        public AboutAuthor()
         {
             InitializeComponent();
         }
